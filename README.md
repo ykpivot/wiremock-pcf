@@ -1,4 +1,4 @@
-#wiremock-pcf
+# wiremock-pcf
 
 This repo contains a working example showing how to run the standalone Wiremock server with custom `mappings`. It implements the `Dist Zip Container` method using Java buildpack, as described in the link below.
 
